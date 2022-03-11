@@ -1,0 +1,28 @@
+1st step install chacolyte
+2ns step next copy chocolyte command
+3rd window power shell
+4th run as administate
+5st paste the 2nd step commed
+6th please type choco nd press enter
+7th go to google and choco install notepad++
+8th choco command copy
+9th paste powr shell
+its only physicall meachine purpose only
+
+
+ AWS LINUX OPENINNG PUTTY
+converted pem to ppk
+HOST NAME = ec2-user@(publickey)
+sudo -i
+
+
+
+
+Test user1
+AKIAVEDURODAX4XUWOLI 
+ah1u8eU8wYSr1t+Ntzc/htg+Q01Rntt5rT34aiCk
+
+
+Test user2
+AKIAVEDURODASNY55IO5 
+WGXd3USBzFrRXibNgjbeh49Stf7af13s2qVDF15V
